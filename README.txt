@@ -1,3 +1,7 @@
 README
 
-This is going to get filled in soon with stuff.
+SensoryPaint is a game that is played with a Kinect.
+
+Abilities of current version:
+
+[fill in once have version one]
